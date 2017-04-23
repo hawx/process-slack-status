@@ -1,0 +1,7 @@
+[*]
+emoji = ":question:"
+text = "what even"
+
+[emacs]
+emoji = ":keyboard:"
+text = "Typing..."
